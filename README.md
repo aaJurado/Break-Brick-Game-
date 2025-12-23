@@ -26,4 +26,11 @@ This project focuses on implementing core game development concepts, including:
 Through this project, I strengthened my understanding of game logic, control flow, and real-time state management. I also gained experience designing structured code and debugging interactive applications.
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository: https://github.com/aaJurado/Break-Brick-Game-
+2.  Open the project in your preferred Java IDE
+3. Compile and run the main game file
+
+## Future Improvements
+- Add multiple levels with increasing difficulty
+- Implement a scoring system and lives counter
+- Improve visual design and animations
